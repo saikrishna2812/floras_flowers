@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_CiwEoVE7EeyRuswW5mg_bg" label="floras_flowers" description="Flora's Flowers Talend Cloud Project" language="java" technicalLabel="FLORAS_FLOWERS" author="_CiwrsFE7EeyRuswW5mg_bg" productVersion="Talend Cloud API Services Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/saikrishna2812/floras_flowers.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_CmO2cFE7EeyRuswW5mg_bg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_CiwrsFE7EeyRuswW5mg_bg" login="saikrishna.ala@trial36451.us.talend.com" firstName="saikrishna" lastName="ala" type="DQ"/>
+</xmi:XMI>
