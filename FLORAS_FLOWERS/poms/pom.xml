@@ -11,6 +11,15 @@
   <modules>
     <module>code/beans</module>
     <module>code/routines</module>
+    <module>jobs/joblets/j00_standard_error_handler_0.1</module>
+    <module>jobs/process/A_Initialize_DB/a00_create_db_schema_0.1</module>
+    <module>jobs/process/B_Load_Tables/a00_load_tables_master_0.1</module>
+    <module>jobs/process/B_Load_Tables/b00_load_customer_table_0.1</module>
+    <module>jobs/process/B_Load_Tables/b01_load_flowers_table_0.1</module>
+    <module>jobs/process/B_Load_Tables/b02_load_sales_table_0.1</module>
+    <module>jobs/process/C_Analytics/a00_flower_sales_master_0.1</module>
+    <module>jobs/process/C_Analytics/c00_flower_montly_sales_analysis_0.1</module>
+    <module>jobs/process/U_Utility/u00_random_names_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
